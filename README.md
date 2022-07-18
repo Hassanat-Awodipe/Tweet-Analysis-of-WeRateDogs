@@ -4,7 +4,7 @@ Gathering Data from Multiple sources in different file formats to analyze the tw
 
 > Project Motivation
 > Context
-> Goal: Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. .
+> Goal: Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
 >
 > The Data
 > I worked on the following three datasets:
@@ -21,4 +21,4 @@ Gathering Data from Multiple sources in different file formats to analyze the tw
 >
 > The images in the WeRateDogs Twitter archive were ran through a neural network that can classify breeds of dogs. The results: a table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction (numbered 1 to 4 since tweets can have up to four images). The file (image_predictions.tsv) containing these detilas was hosted on Udacity's servers. I downloaded  this programmatically using the Requests library.
 
-> Finally, after the process of gathering, accessing and cleaning, I asked questions to generate insights and produce univariate and bivariate visualizations.
+> Finally, after the process of gathering, assessing and cleaning, I asked questions to generate insights and produce univariate and bivariate visualizations.
