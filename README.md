@@ -1,4 +1,4 @@
-# Tweet-Analysis-of-WeRateDogs
+# Tweet Analysis of @WeRateDogs
 Gathering Data from multiple sources in different file formats to analyze the tweets contained in the archive of WeRateDogs.
 
 ### Project Motivation: To extensively wrangle Social Media Data
